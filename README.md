@@ -11,6 +11,8 @@ https://paper.dropbox.com/doc/Meeting-notes-Bhaskar-Talla-Balakisan-and-Tapaswen
 
 https://paper.dropbox.com/doc/Meeting-notes-Hardik-Kumar-and-Tapasweni-Pathak--AfmbTk8kbJpE3l8QCK_0wGebAQ-G0phVsg4IrUwcS1ddV9kS
 
+https://paper.dropbox.com/doc/Meeting-notes-Anika-Murarka-and-Tapasweni-Pathak--Afo3tkTMhEIo3WLXhg7H2nk2AQ-Pjq8kSR9PwjDuUZnUPYma
+
 # Communication
 
 On tickets or in https://github.com/tapaswenipathak/Interns-qna
@@ -25,6 +27,8 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@kumar-hardik Timeline]()
 
+[@anikamurarka Timeline]()
+
 # Calendar
 
 [@vermakhushboo Calendar]()
@@ -34,3 +38,5 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 [@bhaskartalla Calendar]()
 
 [@kumar-hardik Calendar]()
+
+[@anikamurarka Calendar]()
