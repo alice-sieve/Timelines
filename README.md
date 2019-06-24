@@ -13,6 +13,8 @@ https://paper.dropbox.com/doc/Meeting-notes-Hardik-Kumar-and-Tapasweni-Pathak--A
 
 https://paper.dropbox.com/doc/Meeting-notes-Anika-Murarka-and-Tapasweni-Pathak--Afo3tkTMhEIo3WLXhg7H2nk2AQ-Pjq8kSR9PwjDuUZnUPYma
 
+https://paper.dropbox.com/doc/Meeting-notes-Sayantan-Das-and-Tapasweni-Pathak--AfpYiVq9BLDD_M8PCSbrhffEAQ-iPyt4gydL7AkoIZREB60e
+
 # Communication
 
 On tickets or in https://github.com/tapaswenipathak/Interns-qna
@@ -29,6 +31,8 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@anikamurarka Timeline]()
 
+[@ucalyptus Timeline]()
+
 # Calendar
 
 [@vermakhushboo Calendar]()
@@ -40,3 +44,5 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 [@kumar-hardik Calendar]()
 
 [@anikamurarka Calendar]()
+
+[@ucalyptus Calendar]()
