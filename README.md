@@ -47,7 +47,7 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
 [@kumar-hardik Calendar]()
 
-[@anikamurarka Calendar]()
+[@anikamurarka Calendar](https://calendly.com/anikamurarka)
 
 [@ucalyptus Calendar]()
 
