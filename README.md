@@ -21,6 +21,9 @@ https://paper.dropbox.com/doc/Meeting-notes-Niharika-Vadlamudi-and-Tapasweni-Pat
 
 https://paper.dropbox.com/doc/Meeting-notes-Aman-Verma-and-Tapasweni-Pathak--AfvK0mjwcKyP6_sDKbsHwKivAQ-M8qgd7xmOyPPSvAqcjckI
 
+https://paper.dropbox.com/doc/Meeting-notes-Deya-Chatterjee-and-Tapasweni-Pathak--Af7hZ8QxAcfd4uBwRe5y11~pAQ-Ceu94x0sttjhFT7NmVFKs
+
+[@deyachatterjee Timeline]()
 
 # Communication
 
@@ -65,3 +68,6 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 [@NiharikaMessi Calendar]()
 
 [@nightwarrior-xxx Calendar]()
+
+[@deyachatterjee Calendar]()
+
