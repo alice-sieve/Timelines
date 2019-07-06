@@ -1,6 +1,12 @@
 # Timelines
 Interns' timelines repository.
 
+# For GIFs
+- https://datagifmaker.withgoogle.com
+- https://appsource.microsoft.com/en-us/product/office/WA104120594?src=office&corrid=144e9fab-4ffc-4446-9b7f-34cb999d15ee&omexanonuid=7634c2c2-2f6b-4acb-b525-cebe4457ddd6&referralurl=https%3a%2f%2fmedium.com%2f%40evansinar%2fuse-animation-to-supercharge-data-visualization-cd905a882ad4
+- [p5.js/processing.py](https://processing.org/) : programming based approach.
+- https://flourish.studio/
+
 # MOM
 
 https://paper.dropbox.com/doc/Meeting-notes-Khushboo-Verma-and-Tapasweni-Pathak--AfY0Em92eeNzImgsEW3ST7_vAQ-D5x5r5CHNWLLHnJLAVkVU
