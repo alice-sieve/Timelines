@@ -33,6 +33,8 @@ https://paper.dropbox.com/doc/Meeting-notes-Dhiren-Serai-and-Tapasweni-Pathak--A
 
 https://paper.dropbox.com/doc/Meeting-notes-Prateek-Majumder-and-Tapasweni-Pathak--Ag~4fzLlhWVCP0bfYNuEEcOWAQ-9zMmQexcAxQl7adWwpPws
 
+https://paper.dropbox.com/doc/Meeting-notes-Prabal-goel-and-Tapasweni-Pathak--Ag95aPvefqPEcDDEEBMNXBQ~AQ-Wfztl7Enqbv26IX3sf2gt
+
 # Communication
 
 On tickets or in https://github.com/tapaswenipathak/Interns-qna
@@ -86,3 +88,5 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 [@dhirensr Calendar]()
 
 [@prateekmaj21 Calendar]()
+
+[@prabalgoel Calendar]()
