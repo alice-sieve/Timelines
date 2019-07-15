@@ -37,6 +37,8 @@ https://paper.dropbox.com/doc/Meeting-notes-Prabal-goel-and-Tapasweni-Pathak--Ag
 
 https://paper.dropbox.com/doc/Meeting-notes-AMIT-SHARMA-and-Tapasweni-Pathak--Ag_EZW~C5TE9Od0G14hWNkGlAQ-HeBM8jvkiFpNftoxURRUB
 
+https://paper.dropbox.com/doc/Meeting-notes-Siddharth-Gupta-and-Tapasweni-Pathak--Ag9h5pbhSxfB8pC1I5DHg_A3AQ-Tl333Lvno33e2LLivuAs2
+
 # Communication
 
 On tickets or in https://github.com/tapaswenipathak/Interns-qna
@@ -71,3 +73,5 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 [@prabalgoel Calendar]()
 
 [@amit-sharma-9 Calendar]()
+
+[@sdhrth Calendar]()
