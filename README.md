@@ -31,7 +31,7 @@ https://paper.dropbox.com/doc/Meeting-notes-Deya-Chatterjee-and-Tapasweni-Pathak
 
 https://paper.dropbox.com/doc/Meeting-notes-Dhiren-Serai-and-Tapasweni-Pathak--Af7q1O4Jr6QkLWJ85pxV6vUOAQ-s0xKzDJ1NNGI4RQmsVHcA
 
-
+https://paper.dropbox.com/doc/Meeting-notes-Prateek-Majumder-and-Tapasweni-Pathak--Ag~4fzLlhWVCP0bfYNuEEcOWAQ-9zMmQexcAxQl7adWwpPws
 
 # Communication
 
@@ -84,3 +84,5 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 [@deyachatterjee Calendar]()
 
 [@dhirensr Calendar]()
+
+[@prateekmaj21 Calendar]()
