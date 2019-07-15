@@ -35,33 +35,12 @@ https://paper.dropbox.com/doc/Meeting-notes-Prateek-Majumder-and-Tapasweni-Patha
 
 https://paper.dropbox.com/doc/Meeting-notes-Prabal-goel-and-Tapasweni-Pathak--Ag95aPvefqPEcDDEEBMNXBQ~AQ-Wfztl7Enqbv26IX3sf2gt
 
+https://paper.dropbox.com/doc/Meeting-notes-AMIT-SHARMA-and-Tapasweni-Pathak--Ag_EZW~C5TE9Od0G14hWNkGlAQ-HeBM8jvkiFpNftoxURRUB
+
 # Communication
 
 On tickets or in https://github.com/tapaswenipathak/Interns-qna
 
-# Timelines
-
-[@vermakhushboo Timeline]() 
-
-[@horaanchal Timeline]()
-
-[@bhaskartalla Timeline]()
-
-[@kumar-hardik Timeline]()
-
-[@anikamurarka Timeline]()
-
-[@ucalyptus Timeline]()
-
-[@csamarth Timeline]()
-
-[@NiharikaMessi Timeline]()
-
-[@nightwarrior-xxx Timeline]()
-
-[@deyachatterjee Timeline]()
-
-[@dhirensr Timeline]()
 
 # Calendar
 
@@ -90,3 +69,5 @@ On tickets or in https://github.com/tapaswenipathak/Interns-qna
 [@prateekmaj21 Calendar]()
 
 [@prabalgoel Calendar]()
+
+[@amit-sharma-9 Calendar]()
